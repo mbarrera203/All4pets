@@ -10,5 +10,6 @@ package com.All4pets.All4pets.entidades;
  * @author Sebastian Hubaide
  */
 public class Mascota {
+    private String hola;
     
 }
